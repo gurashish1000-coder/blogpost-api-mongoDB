@@ -14,7 +14,7 @@ To test the endpoints I used Postman.
 - Enter in your request body data into the test box 
 - Click Send 
 
-<img src="images/postman.PNG"  >
+<img src="images/p2.PNG"  >
 
 
 
